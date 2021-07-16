@@ -1,0 +1,21 @@
+{
+  "name": "express-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvdaa0424/express-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suvdaa0424/express-101/issues"
+  },
+  "homepage": "https://github.com/suvdaa0424/express-101#readme"
+}
